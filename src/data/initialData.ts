@@ -6,7 +6,7 @@ import rackHooksImg from '../assets/images/rak_kawat_adhesive_hooks_179122112074
 import cornerTwoTierImg from '../assets/images/rak_sudut_dua_tingkat_1791221135615.jpg';
 import multiTierImg from '../assets/images/rak_kamar_mandi_multitier_real_1791220080865.jpg';
 
-export const DEFAULT_SHOPEE_URL = 'https://shopee.co.id/product/157287391/49268390301/';
+export const DEFAULT_SHOPEE_URL = 'https://s.shopee.co.id/2VsHgAb0hf';
 
 export const INITIAL_PHOTO_COLUMNS: PhotoColumn[] = [
   {
